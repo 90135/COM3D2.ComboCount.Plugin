@@ -8,12 +8,13 @@ A friend of mine wanted it, so I forked and compiled it
 
 ## How to use   
 
-1. Download
+1. Download in Release
 2. Put the `COM3D2.ComboCount.Plugin.dll` file in `COM3D2\Sybaris\UnityInjector\`
 3. Put the `ComboCount.xml` file in `COM3D2\Sybaris\UnityInjector\Config\`
 
+<br>
 
-Original readme :
+## Original readme
 
 ```
 ■これは何
